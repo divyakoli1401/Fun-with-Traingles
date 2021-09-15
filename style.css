@@ -1,0 +1,50 @@
+:root{
+    --primary-color : #bdb2ff;
+    --secondary-color : #ffc6ff; 
+  }
+
+  .navigation {
+    color: white;
+    padding: 1rem;
+}
+
+.navigation .link {
+    color: black;
+    padding: 1rem;
+    text-decoration: none;
+}
+  
+  .container{
+    width: 50%;
+    margin: auto;
+  }
+  
+  body{
+    background-color: var(--primary-color);
+    color: #012a4a;
+    font-family: 'IBM Plex Sans Arabic', sans-serif;
+    text-align: center
+  }
+
+  .quiz-container input{
+    display: inline;
+    width: auto;
+  }
+  
+  input{
+    display: block;
+    margin: 0.5rem;
+    border-radius: 0.5rem;
+    width: 100%;
+    padding: 0.5rem;
+  }
+
+  button{
+    background-color: var(--secondary-color);
+    padding: 0.5rem ;
+    border-radius:0.5rem; 
+    margin: auto;
+    display: block;
+  }
+
+
