@@ -1,2 +1,2 @@
-# Stock-profit-and-loss
-Calculates if the stock you have purchased is making profit or loss
+# Fun-with-Triangles
+Know whether the angles make a triangle. Calculate the hypotenuse and area of triangle, also includes a short quiz on triangles.
